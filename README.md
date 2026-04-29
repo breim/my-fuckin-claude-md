@@ -44,9 +44,6 @@ Before declaring a multi-feature task done, the agent must enumerate every item 
 
 This forces a re-read of the spec before closing the task — which is exactly the step the agent was skipping before.
 
-### 4. Pointed at `superpowers:writing-plans` for large specs
-For specs with more than ~5 items, the file now instructs the agent to convert the spec into an explicit plan (via the `superpowers:writing-plans` skill) **before touching code**, so each item becomes a tracked checklist entry.
-
 ## What I kept unchanged
 
 - `§1 Think Before Coding` — surfacing assumptions and tradeoffs is still valuable.
