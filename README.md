@@ -1,5 +1,10 @@
 # my-fuckin-claude-md
 
+<p align="center">
+  <img width="540" src="https://github.com/user-attachments/assets/5b2a9c0a-69e3-4891-bf39-b4e1f9e753cb" alt="Imagem do projeto" />
+</p>
+
+
 ## Origin
 
 This `CLAUDE.md` was based on the behavioral guidelines published by Andrej Karpathy's skill set, mirrored at:
