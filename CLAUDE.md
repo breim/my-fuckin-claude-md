@@ -82,8 +82,6 @@ When the user provides a spec, requirements doc, feature list, or any `.md` desc
 
 If anything is partial or skipped, say so plainly. Do not claim completion when items are missing.
 
-For specs with more than ~5 items, use the `superpowers:writing-plans` skill first to convert the spec into an explicit checklist before touching code.
-
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
